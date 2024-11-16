@@ -126,5 +126,5 @@ $RECYCLE.BIN/
 
 .idea/
 
-Assets/*
-!Assets/Game
+Assets/Sandbox/
+Assets/Sandbox.meta

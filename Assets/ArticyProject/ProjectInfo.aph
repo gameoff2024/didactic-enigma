@@ -1,0 +1,19 @@
+<ProjectInfo Version="1">
+  <Signature>1C416A864619162A06B0C5299719DB1906C3794C0A6CEBA5302864C19275CA95</Signature>
+  <Content>
+    <Project Guid="da89f012-3029-4f73-9b2e-7c212cc7aed7">
+      <DisplayName Value="didactic-enigma"/>
+      <DetailName Value=""/>
+      <MainProjectGuid Value="c42507c9-9633-4a8f-be09-b6e269bcfbb1"/>
+      <IconType Value="0"/>
+      <IdProjectIcon Value="00000000-0000-0000-0000-000000000000"/>
+      <ScmProviderGuid Value="0745c2ee-abe3-451b-934e-7f597f56c0d7"/>
+      <ScmConfiguration Value=""/>
+      <CreationTimeStamp Value="638673139306641936"/>
+      <PartitionHash Value="D825203A7BB4B58130D41365506A1714C9621E1DB4504C80E58FF50B7A233C26"/>
+      <SaveFileVersion Value="58"/>
+      <ProjectType Value="0"/>
+      <IsOnlineProject Value="False"/>
+    </Project>
+  </Content>
+</ProjectInfo>
